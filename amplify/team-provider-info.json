@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "reactappsocial069fced7": {}
+      },
+      "api": {
+        "reactappsocial": {}
+      },
+      "storage": {
+        "todoapp": {}
       }
     }
   }

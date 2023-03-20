@@ -1,0 +1,14 @@
+{
+  "resourceName": "todoapp",
+  "policyUUID": "f54e442a",
+  "bucketName": "todobucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
